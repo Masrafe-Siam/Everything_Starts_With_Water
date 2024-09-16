@@ -23,14 +23,21 @@ Hope to Achieve
 Education and information about water scarcity reaches every corner of the globe to all mankind.
 
 # Tools
-Prototyping: Canva
-Design: Canva & Figma
-Video Edit: Adobe Premiere Pro
-Platform: VS Code & GitHub
+
+  1 Prototyping: Canva
+
+  2 Design: Canva & Figma
+
+  3 Video Edit: Adobe Premiere Pro
+
+  4 Platform: VS Code & GitHub
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+
 Currently, two official plugins are available:
+
 
 @vitejs/plugin-react uses Babel for Fast Refresh
 @vitejs/plugin-react-swc uses SWC for Fast Refresh
