@@ -1,8 +1,8 @@
 # everything-starts-with-water
-Project Title
+# Project Title
 Water: The Earth’s Gift
 
-Live Project
+#Live Project
 https://watertheearthgift.netlify.app/
 
 Game Prototype
