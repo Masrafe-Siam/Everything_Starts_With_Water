@@ -1,4 +1,4 @@
-# everything-starts-with-water
+## everything-starts-with-water
 # Project Title
 Water: The Earth’s Gift
 
