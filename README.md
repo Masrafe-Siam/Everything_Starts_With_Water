@@ -15,11 +15,11 @@ https://drive.google.com/file/d/1slBpiBYUNtOWHuvRSvgH2J2hZVBSde6y/view?usp=shari
 Introducing "Water: The Earth’s Gift" – a cutting-edge web application designed to educate and engage users in understanding the complex dynamics of the water cycle, addressing critical water scarcity challenges and climate change's significant impact in this regard.” Water” is a dynamic and interactive web application that visualizes the water cycle, explores the issue of water scarcity and offers practical solutions to this significant problem. The web application is made for people of various ages and academic backgrounds. The application uses engaging quizzes and puzzles to teach users about the importance of water conservation and sustainability.
 
 # Benefits
-user can learn through the "play" option
-get in touch with the water scarcity
-see the harsh reality about the water cycle of the world
-increase the awareness about water crisis
-Hope to Achieve
+* user can learn through the "play" option
+* get in touch with the water scarcity
+* see the harsh reality about the water cycle of the world
+* increase the awareness about water crisis
+# Hope to Achieve
 Education and information about water scarcity reaches every corner of the globe to all mankind.
 
 # Tools
